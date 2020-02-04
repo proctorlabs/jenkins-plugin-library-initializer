@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<st:compress xmlns:st="jelly:stapler">
+    Initialize a script from a shared pipeline library with a scripted initializer.
+</st:compress>
